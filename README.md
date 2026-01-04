@@ -11,7 +11,7 @@ This application is a full-stack SaaS platform designed for organizations to man
 ---
 
 ## 📺 Video Demo
-**[🎥 Click here to watch the Project Walkthrough & Architecture Demo](https://drive.google.com/file/d/1YEemeV-PoHXdaffm1RHDVt7cGYIKgxtb/view?usp=sharing)**
+**[🎥 Click here to watch the Project Walkthrough & Architecture Demo](https://drive.google.com/file/d/1NsTKU2ch6Tx-MQfyXKwN_f5-_BVD3ygQ/view?usp=drive_link)
 
 ---
 
