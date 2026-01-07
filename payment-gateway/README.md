@@ -1,4 +1,5 @@
-echo "# 💳 Full-Stack Payment Gateway
+@"
+# 💳 Full-Stack Payment Gateway
 
 A complete payment processing system that simulates a real-world payment gateway.
 
@@ -24,4 +25,4 @@ A complete payment processing system that simulates a real-world payment gateway
 3. **Access the Applications**
    * **Merchant Dashboard:** http://localhost:3000
    * **Customer Checkout:** http://localhost:3001
-" > README.md
+"@ | Set-Content -Path README.md -Encoding UTF8
